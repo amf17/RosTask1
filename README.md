@@ -1,4 +1,4 @@
-![image](https://github.com/amf17/RosTask1/assets/139582388/b8e7c000-f6ec-44b6-8f81-b1f3779c8ecf)# Robot arm simulation on ROS
+# Robot arm simulation on ROS
 
 ## Steps to download ROS
 
@@ -32,6 +32,11 @@ after we run ros
 ![image](https://github.com/amf17/RosTask1/assets/139582388/e6dbc518-7ee5-4ac7-a683-2c6b73147ef3)
 
 We select Terminal and write `$ roslaunch robot_arm_pkg check_motors.launch`
+
+![image](https://github.com/amf17/RosTask1/assets/139582388/7aab15d2-ce1f-4081-99de-7db8a37b35e5)
+
+
+![image](https://github.com/amf17/RosTask1/assets/139582388/e9d03eb5-1413-49e0-9c01-3b3532a8ad60)
 
 
 
