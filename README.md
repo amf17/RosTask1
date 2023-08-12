@@ -10,7 +10,7 @@ To download VirtualBox, you can visit the official VirtualBox website (https://w
 
 ![image](https://github.com/amf17/RosTask1/assets/139582388/6f26d39f-8e96-4932-9c90-5b0d9b50ba5b)
 
-Then we download Ubuntu 
+Then download Ubuntu 
 
 Ubuntu has a vast software repository, known as the Ubuntu Software Center, which offers a wide range of free and open-source software applications. You can find popular software such as web browsers, office suites, media players, development tools, and more, all easily installable with just a few clicks.
 
@@ -19,19 +19,19 @@ To download Ubuntu, you can visit the official Ubuntu website (https://ubuntu.co
 ![image](https://github.com/amf17/RosTask1/assets/139582388/0b6c8f78-3c9d-44c0-bb3e-c939f9aff651)
 
 
-we can install robotic arm packages from https://github.com/smart-methods/arduino_robot_arm
+You can install robotic arm packages from https://github.com/smart-methods/arduino_robot_arm
 
-after that open VirtualBox then file - import and select ros file 
+After that open VirtualBox then file - import and select ros file 
 
 ## Robot arm simulation
 
-after we run ros 
+after run ROS 
 
 ![image](https://github.com/amf17/RosTask1/assets/139582388/a1ff20c0-21ea-40e8-8859-f551a88c0406)
 
 ![image](https://github.com/amf17/RosTask1/assets/139582388/e6dbc518-7ee5-4ac7-a683-2c6b73147ef3)
 
-We select Terminal and write `$ roslaunch robot_arm_pkg check_motors.launch`
+Open Terminal and write `$ roslaunch robot_arm_pkg check_motors.launch`
 
 ![image](https://github.com/amf17/RosTask1/assets/139582388/7aab15d2-ce1f-4081-99de-7db8a37b35e5)
 
